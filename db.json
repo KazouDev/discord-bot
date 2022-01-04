@@ -1,0 +1,18 @@
+{
+  "subscriptions": [
+    {
+      "id": "fd343s",
+      "url": "https://www.vinted.fr/vetements?catalog[]=1821&brand_id[]=53&currency=EUR&price_to=15&status[]=2&status[]=1&status[]=6&size_id[]=207&size_id[]=208&size_id[]=209&order=newest_first",
+      "channelID": "927658499780009995"
+    },
+    {
+      "id": "uc16vl",
+      "url": "https://www.vinted.fr/vetements?currency=EUR&price_to=20&status[]=2&status[]=1&status[]=6&order=newest_first&brand_id[]=362&catalog[]=34",
+      "channelID": "927658499780009995"
+    }
+  ],
+  "last_item_ts_7ox99": 1641241754000,
+  "last_item_ts_fd343s": 1641329106000,
+  "last_item_ts_uc16vl": 1641329126000,
+  "is_first_sync": false
+}
