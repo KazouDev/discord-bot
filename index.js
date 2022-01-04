@@ -1,5 +1,3 @@
-const config = require('./config.json');
-
 const Database = require('easy-json-database');
 const db = new Database('./db.json');
 if (!db.has('subscriptions')) db.set('subscriptions', []);
